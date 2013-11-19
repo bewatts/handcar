@@ -1,0 +1,5 @@
+require_relative './handcar/associatable'
+require_relative './handcar/db_connection'
+require_relative './handcar/mass_object'
+require_relative './handcar/searchable'
+require_relative './handcar/sql_object'
